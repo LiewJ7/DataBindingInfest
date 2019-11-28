@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Binding Infest</string>
+    <string name="Name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="send">Send</string>
+    <string name="call">Call</string>
+    <string name="reply">Reply</string>
+</resources>
